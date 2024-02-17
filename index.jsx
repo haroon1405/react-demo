@@ -16,7 +16,7 @@ import HostVanPhotos from "./pages/Host/HostVanPhotos"
 import Layout from "./components/Layout"
 import HostLayout from "./components/HostLayout"
 
-import "./server"
+import "./server";
 
 function App() {
   return (
